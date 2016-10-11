@@ -31,3 +31,32 @@ Poop sells.
 ### Things not tested
 - Platforming motion (acceleration curves for running/jumping are easy to tweak and cosmetic)
 
+## Game 2: Meme or No Meme
+
+"Scroll through AI generated and human OC memes from aggregators and mark an image as meme or no meme"
+
+### Core Mechanic
+- User subjectivity
+- Tinder style swipe for yes/no
+- ML accuracy
+
+### Stuff
+- Meme aggregator sources (e.g 4chan, reddit, popular FB shitpost groups)
+- Google DeepDream, Caffe ML library
+- Memes themselves
+
+### Long form description
+This is a very open ended game that basically attempts to answer the question of 'what is a meme' by relying on the user for classification for memes that are both made by humans and computers. You could have an SVM attempt to classify both and use that to train DeepMind to create a meme that can pass the 'human test'. All this aside, users could get metrics from the ML libraries to see (for novelty) factor how good the machine is getting at making memes, and incentivize scoring memes through allowing the user to give more detailed training data (e.g, move from meme or no meme to, if no meme is selected, provide a meme that you think is similar to the one generated)
+
+### Novelty
+Machine learning is a pretty good buzzword and people love memes.
+
+### Questions hoping to answer
+- Is this actually a game or just a cool ML project?
+- What makes memes fun?
+- Does the machine learning aspect make the game interesting, e.g., would you like to train a meme-bot to see if it goes wild and does crazy shit?
+
+### Things not tested
+- Any actual ML accuracy, the point is for the algorithm to walk the line of passable vs. weird sci-fi vaporware
+- UX cosmetics, must know if mechanic is tenable
+
