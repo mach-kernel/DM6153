@@ -90,3 +90,28 @@ Imagine a meld of the sims and civ where you have to define Silicon Valley by di
 - Controls/aesthetics
 - I don't know what not to test here?
 
+## Game 4: Table Flip Escape 
+
+### Core Mechanic
+- Flipping tables
+- Running away
+
+### Stuff
+- Motorcycle as vehicle
+- Guns (you get shot at)
+- Powerups (speed up, shield, slow down, etc)
+
+### Long Form Description
+You begin your story as someone who goes out to the park where people are having a picnic. You identify a table that you wish to flip over by looking at the people there. Easy targets (families) are easier to escape from, while biker gangs and robbers that are sitting and eating are also available for harder modes. You flip their table, run to your motorcycle, then run as they chase you through traffic. If you crash, you will slow down and they will catch you. You can use powerups to recover from this. 
+
+## Questions hoping to answer
+- Is running away difficult enough?
+- Are powerups even necessary
+- Are the controls intuitive (e.g can people get started on running away without having to be explicitly told what the controls are)?
+- Is this immersive enough to work?
+- Do people get bored easy?
+
+## Things not tested
+- What kind of powerups to include (future iteration)?
+- Mobile vs computer play
+- Online or multiplayer
