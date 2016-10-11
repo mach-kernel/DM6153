@@ -60,3 +60,33 @@ Machine learning is a pretty good buzzword and people love memes.
 - Any actual ML accuracy, the point is for the algorithm to walk the line of passable vs. weird sci-fi vaporware
 - UX cosmetics, must know if mechanic is tenable
 
+## Game 3: Silicon Valley Simulator 2017
+
+### Core Mechanic
+- Build startups
+- Create engineers
+- Disrupt with buzzwords
+- Make lots of $$$$$ with VC congolomerates
+- Destroy families with acquisitions and liquidations
+
+### Stuff 
+- Sprites for buildings, software engineers, VCs, PCs, etc.
+- Startup logo generator
+- Buzzword generator
+- Some NPC that goes "wow that's so webscale"
+
+### Long form description
+Imagine a meld of the sims and civ where you have to define Silicon Valley by disrupting the industry with a predefined 'next hottest thing' that changes every 30 minutes. Pivot your company, befriend VC, and do your best to stay relevant and avoid getting your company a downround or losing all your money and dying from stress. Recruit the best engineers, give them nice office amenities and make sure they are healthy enough to drive your MVP. Basically, make a game out of my life. 
+
+### Novelty
+`[next hottest thing].js`
+
+### Questions hoping to answer
+- Can I make the game engaging with a "growing startup theme"?
+- Will any audience feel comfortable jumping in and playing, or only those familiar with the intimacies of SV and the VC/startup ecosystem?
+- Is this just a skin on an existing game?
+
+### Things not tested
+- Controls/aesthetics
+- I don't know what not to test here?
+
