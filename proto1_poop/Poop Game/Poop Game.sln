@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6D486211-0802-38E1-2DFB-2F1F0F0C8883}") = "Poop Game", "Assembly-CSharp.csproj", "{05C5A06E-8D44-1D18-6B76-3A1347A8A602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C5A06E-8D44-1D18-6B76-3A1347A8A602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C5A06E-8D44-1D18-6B76-3A1347A8A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C5A06E-8D44-1D18-6B76-3A1347A8A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C5A06E-8D44-1D18-6B76-3A1347A8A602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
