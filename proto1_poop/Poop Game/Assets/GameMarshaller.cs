@@ -24,7 +24,7 @@ public class GameMarshaller : MonoBehaviour {
 		// No interpolation in this runtime + sprintf
 		GUI.Label (
 			new Rect (GameObject.Find ("PoopSprite").transform.position + new Vector3 (300f, 75f), new Vector2(100000f, 100000f)), 
-			"YOU HAVE TO SHIT! GET TO THE TOILET BEFORE IT'S TOO LATE: " + timeLeft.ToString("F2") + "s"
+			"YOU HAVE TO POOP! GET TO THE TOILET BEFORE IT'S TOO LATE: " + timeLeft.ToString("F2") + "s"
 		);
 
 		if (timeLeft < 10f) {
